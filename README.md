@@ -37,6 +37,4 @@ Motix-AI is a machine learning project focused on classification tasks using var
 
 KNN is recommended for best results on this project.
 
-## License
 
-See [LICENSE](LICENSE) for details.
